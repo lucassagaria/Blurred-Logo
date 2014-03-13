@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Blurred Logo</string>
+    <string name="action_settings">Settings</string>
+    <string name="letsPlay">Let\'s play Blurred Logo!</string>
+    <string name="hint">Spin the wheel to get extra lifes!</string>
+    <string name="rouletteImageDesc">Roulette</string>
+    <string name="botonSpin">Spin the wheel</string>
+</resources>
